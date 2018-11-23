@@ -1,0 +1,10 @@
+[package]
+name = "glium_qopenglwidget"
+version = "0.1.0"
+authors = ["Geordon Worley <vadixidav@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+glium = "0.22.0"
+qt_gui = "0.2.3"
+qt_core = "0.2.3"
